@@ -10,5 +10,5 @@ PROJEKTBEZEICHNUNG: Schuelerverwaltung
 PROJEKTZWECK:
 VERSION oder DATUM: 30. Mai 2020
 WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+AUTOR(EN): Maximilian Arnold
+BENUTZERHINWEISE: Checkt die Anleitung auf Teams um diesem Projekt beizutreten
