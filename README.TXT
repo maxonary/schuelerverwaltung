@@ -6,3 +6,4 @@ AUTOR(EN): Maximilian Arnold, Ben Loeken
 BENUTZERHINWEISE: Checkt die Anleitung auf Teams um diesem Projekt beizutreten
 
 Besondere Merkale: Ein JSpinner ermöglicht eine präzise und einfache Möglichkeit ein Datum einzustellen. Beim einstellen des Datums wechselt der Text in dem daneben liegenden JTextfield auf das nächste logische Kalenderdatum.
+Eine Suchfunktion ermöglicht das strukturierte Suchen nach bestimmten Schülerdatensätzen aus einer Datanbank.
