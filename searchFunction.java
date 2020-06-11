@@ -9,12 +9,15 @@ public class searchFunction
 
     public searchFunction()
     {
-        //TableRowSorter sorter = new TableRowSorter<>("tableModel";     //"tableModel" mit dem Namen des Tabellen Model ersetzen
-        //"table".setRowSorter(sorter);                                  //"table" mit dem Namen der Tabelle ersetzen
+        /**"tableModel" mit dem Namen des Tabellen Model ersetzen**/
+        //TableRowSorter sorter = new TableRowSorter<>("tableModel";
+        /**"table" mit dem Namen der Tabelle ersetzen**/
+        //"table".setRowSorter(sorter);                                  
         
         JTextField searchField = new JTextField("Suchen", 50);
         searchField.setVisible(true);
-        //topPanel.add(searchField);                                      //"topPanel" muss mit dem Namen eines Panels ersetzt werden, Ich würde eins ganz oben über der Tabelle erstellen
+        /**"topPanel" muss mit dem Namen eines Panels ersetzt werden, Ich würde eins ganz oben über der Tabelle erstellen**/
+        //topPanel.add(searchField);                                      
         searchField.setBackground(Color.decode("#777777"));
         searchField.setForeground(Color.WHITE);
         searchField.setHorizontalAlignment(JTextField.CENTER);

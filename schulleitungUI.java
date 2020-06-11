@@ -25,8 +25,11 @@
                public schulleitungUI() {
 
                    String[] colNames = new String[] { "Name", "Vorname", "Geburtsdatum","Klasse" , "Schultyp" };
-                   //DBHelper DB = new DBHelper();  Datenbank muss Initialisiert werden
                    
+                   /**Datenbank muss Initialisiert werden**/
+                   //DBHelper DB = new DBHelper();  
+                   
+                   /** Datenbank Methode muss hinzugefügt werden**/
                    // ArrayList<String[]> antwort = "Anfrage an die Datenbank"
                             
                     model = new DefaultTableModel(colNames, 0);
