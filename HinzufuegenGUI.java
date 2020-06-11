@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import java.util.Date;
-public class HinzufuegenGUI extends DBHelper
+public class HinzufuegenGUI
 {
     //Verbindung zur StatusGUI zum Anzeigen des Erfolgs der Eingaben
     
@@ -123,7 +123,7 @@ public class HinzufuegenGUI extends DBHelper
       public JLabel anhang1;
       public JLabel anhang2;
 
-    public void HinzufuegenGUI()
+    public HinzufuegenGUI()
     {
         final JFrame window = new JFrame("Schüler zur Datenbank hinzufügen");
         
