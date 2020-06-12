@@ -123,7 +123,7 @@ public class HinzufuegenGUI
       public JLabel anhang1;
       public JLabel anhang2;
 
-    public HinzufuegenGUI()
+    public void HinzufuegenGUI()
     {
         final JFrame window = new JFrame("Schüler zur Datenbank hinzufügen");
         
